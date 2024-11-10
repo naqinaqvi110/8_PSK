@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=500&color=A866FB&center=true&vCenter=true&width=435&lines=Aptech+Vison+2024;Fashion+Mirror;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=500&color=fffffcenter=true&vCenter=true&width=435&lines=NED+University;Comunication+System;Complex+Engineering+Problem" alt="Typing SVG" />
 </div>
 
 ## Instructions
