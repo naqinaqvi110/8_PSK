@@ -10,7 +10,7 @@ install ModelSim 18.1
 install IntelQuartusPrime
 ```
 
-## Team Behind ViroShield
+## Team Behind 8-BIT PSK
 
 | Student Id | Student Name |
 | ------------- | ------------- |
@@ -21,5 +21,5 @@ install IntelQuartusPrime
 
 ## ⚙️ Language we have used:
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=verilog&logoColor=white">
+  ![Verilog](https://img.shields.io/badge/Verilog-%2300599C?style=for-the-badge&logo=verilog&logoColor=white)
 </p>
