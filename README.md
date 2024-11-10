@@ -22,5 +22,6 @@ install IntelQuartusPrime
 
 ## ⚙️ Languages We Have Used:
 <p align="left">
-  ![Verilog](https://img.shields.io/badge/Verilog-%2300599C?style=for-the-badge&logo=verilog&logoColor=white)
+  <img src="https://img.shields.io/badge/Verilog-%2300599C?style=for-the-badge&logo=verilog&logoColor=white">
 </p>
+
