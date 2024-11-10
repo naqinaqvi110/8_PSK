@@ -4,10 +4,10 @@
 
 ## Instructions
 1. Download zip file and extract it
-2. To set up the project, you can use the following commands:
+2. To set up the project, you can use the following Software for the Simulation and for FPGA:
 ```
 install ModelSim 18.1
-
+install IntelQuartusPrime
 ```
 
 ## Team Behind ViroShield
